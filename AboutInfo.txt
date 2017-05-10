@@ -1,0 +1,15 @@
+SpecT (Version 1-beta)
+An IDL GUI for temperature measurement
+
+Modification histry
+Version 1-alfa	2/27/2004
+Version 1-beta    1/26/2005
+
+Questions to:
+Guoyin Shen
+Email: shen@cars.uchicago.edu
+
+Center for Advanced Radiation Sources
+University of Chicago
+
+www.gsecars.org

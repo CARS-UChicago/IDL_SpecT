@@ -1,0 +1,8 @@
+           0
+3ida:us_las_temp.VAL
+3ida:us_las_trig.VAL
+3ida:us_las_temp
+3ida:us_las_trig
+C:\IDL\SpecT
+D:\Temperature\Nov04\Fe_melting
+D:\Temperature\TempStandards
